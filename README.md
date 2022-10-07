@@ -24,31 +24,31 @@ Balanced Accuracy: 0.6612700484668286
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = .66/.67
 SMOTE Oversampling
-Pic 2
+![Pic 2](https://github.com/fouadZiaa/Credit_Risk_Analysis/blob/2dc4e099a94bc4f9fd39a9a9bba88ee3d2a33a92/Images/Pic%202.png)
 
 Balanced Accuracy: 0.6303296388959394
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = .62/.64
 Undersampling
-Pic 3
+![Pic 3](https://github.com/fouadZiaa/Credit_Risk_Analysis/blob/2dc4e099a94bc4f9fd39a9a9bba88ee3d2a33a92/Images/Pic%203.png)
 
 Balanced Accuracy: 0.6303296388959394
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = .63/.40
 Combination Under-Over Sampling
-Pic 4
+![Pic 4](https://github.com/fouadZiaa/Credit_Risk_Analysis/blob/2dc4e099a94bc4f9fd39a9a9bba88ee3d2a33a92/Images/Pic%204.png)
 
 Balanced Accuracy: 0.5173713090878325
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = .70/.57
 Balanced Random Forest Classifier
-Pic 5
+![Pic 5](https://github.com/fouadZiaa/Credit_Risk_Analysis/blob/2dc4e099a94bc4f9fd39a9a9bba88ee3d2a33a92/Images/Pic%205.png)
 
 Balanced Accuracy: 0.7877672625306695
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = .67/.91
 Easy Ensemble AdaBoost Classifier
-Pic 6
+![Pic 6](https://github.com/fouadZiaa/Credit_Risk_Analysis/blob/2dc4e099a94bc4f9fd39a9a9bba88ee3d2a33a92/Images/Pic%206.png)
 
 Balanced Accuracy: 0.925427358175101
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
