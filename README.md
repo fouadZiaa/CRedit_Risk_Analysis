@@ -18,7 +18,7 @@ EasyEnsembleClassifier (bias reduction model)
 The results for the six machine learning models including their respective balanced accuracy, precision, and recall scores are as follows:
 
 Naive Random Oversampling
-Pic 1
+! [Pic 1](https://github.com/fouadZiaa/Credit_Risk_Analysis/blob/5ea19c95083f096c624c980a9764db242e156dfc/Images/Pic%201.png)
 
 Balanced Accuracy: 0.6612700484668286
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
