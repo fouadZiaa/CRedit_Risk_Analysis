@@ -29,7 +29,7 @@ The results for the six machine learning models including their respective balan
 
 * Balanced Accuracy: 0.6303296388959394
 * Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-* Recall: High/Low risk = .62/.64
+* Recall: High/Low risk = .62/.65
 
 ## Undersampling
 ![Pic 3](https://github.com/fouadZiaa/Credit_Risk_Analysis/blob/2dc4e099a94bc4f9fd39a9a9bba88ee3d2a33a92/Images/Pic%203.png)
